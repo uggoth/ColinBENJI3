@@ -1,0 +1,20 @@
+main_test_command_stream_B_v02.py starting
+
+Received: 0000WHOU
+
+Sending: 0000OKOKPICOR
+Received: 0001WHOU
+
+Sending: 0001OKOKPICOR
+Received: 0002DRIV003000000000
+
+Sending: 0002OKOK
+spin: 0, fore_and_aft: 30, crab: 0Received: 0003DRIV-03000000000
+
+Sending: 0003OKOK
+spin: 0, fore_and_aft: -30, crab: 0Received: 0004DRIV003000000000
+
+Sending: 0004OKOK
+spin: 0, fore_and_aft: 30, crab: 0Received: 0005STOP
+
+Sending: 0005OKOK

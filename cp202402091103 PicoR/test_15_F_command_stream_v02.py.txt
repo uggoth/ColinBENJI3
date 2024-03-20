@@ -1,0 +1,32 @@
+test_15_F_command_stream_v02.py starting
+
+Received: 0000WHOU
+
+Command WHOU
+Received: 0001DUMMY
+
+Command not WHOU, EXIT
+Received: 0002WHOU
+
+Command WHOU
+Received: 0003DUMMY
+
+Command not WHOU, EXIT
+Received: 0004MFWD0050
+
+Command not WHOU, EXIT
+Received: 0005DUMMY
+
+Command not WHOU, EXIT
+Received: 0006MSTP
+
+Command not WHOU, EXIT
+Received: 0007DUMMY
+
+Command not WHOU, EXIT
+Received: 0008EXIT
+
+Command EXIT
+
+test_15_F_command_stream_v02.py finished
+
